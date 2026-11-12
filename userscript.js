@@ -17,16 +17,16 @@
 
     const replacements = {
         'https://www.geo-fs.com/images/map/icons/yellow.png':
-            'https://raw.githubusercontent.com/krunchiekrunch/GeoFS-Better-NAV-Map/refs/heads/main/assets/self.png',
+            'https://raw.githubusercontent.com/krunchiekrunch/GeoFS-Aircraft-Icon-Replacer/refs/heads/main/assets/self.png',
 
         'https://www.geo-fs.com/images/map/icons/blue.png':
-            'https://raw.githubusercontent.com/krunchiekrunch/GeoFS-Better-NAV-Map/refs/heads/main/assets/others.png',
+            'https://raw.githubusercontent.com/krunchiekrunch/GeoFS-Aircraft-Icon-Replacer/refs/heads/main/assets/others.png',
 
         'https://beta.geo-fs.com/images/map/icons/yellow.png':
-            'https://raw.githubusercontent.com/krunchiekrunch/GeoFS-Better-NAV-Map/refs/heads/main/assets/self.png',
+            'https://raw.githubusercontent.com/krunchiekrunch/GeoFS-Aircraft-Icon-Replacer/refs/heads/main/assets/self.png',
 
         'https://beta.geo-fs.com/images/map/icons/blue.png':
-            'https://raw.githubusercontent.com/krunchiekrunch/GeoFS-Better-NAV-Map/refs/heads/main/assets/others.png'
+            'https://raw.githubusercontent.com/krunchiekrunch/GeoFS-Aircraft-Icon-Replacer/refs/heads/main/assets/others.png'
     };
 
     function replaceUrl(url) {
